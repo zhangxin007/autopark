@@ -1,0 +1,7 @@
+org/zx/userpar/parkmanager/entity/CityArea.class
+org/zx/userpar/parkmanager/entity/AdminUser.class
+org/zx/userpar/parkmanager/entity/ParkIng.class
+org/zx/userpar/AutoparkcommonApplication.class
+org/zx/userpar/parkmanager/entity/SuperAdmin.class
+org/zx/userpar/parkmanager/entity/StreePark.class
+org/zx/userpar/parkmanager/entity/StreeArea.class
